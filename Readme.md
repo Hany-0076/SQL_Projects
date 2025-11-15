@@ -16,8 +16,8 @@ Through multiple SQL queries, the project uncovers key career insights, includin
 </br></br>
 - **Top Valuable Skills for Data Scientists →** Highlight the skills associated with the highest salaries for Data Scientists.
 </br></br>  
-- **Top Optimal Skills for Data Scientists →** Find the combination of both high-demand and high-paying skills for Data Scientists.  
-</br>
+- **Top Optimal Skills for Data Scientists →** Find the combination of both high-demand and high-paying skills for Data Scientists.
+</br></br>  
 - **Top Countries Employing Data Scientists →** Explore which countries have the strongest demand for Data Scientists.  
 
 This project helps job seekers prioritize the right skills, focus on high-value roles, and understand global trends for the Data Scientists.
