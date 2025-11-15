@@ -1,7 +1,17 @@
 # SQL Projects for Data Analytics
 
-A collection of SQL projects focused on data analysis including Data Querying, Aggregation, Data Manipulation, CASE expressions, JIONS, Sub Queries, and CTEs.
-</br></br>
+A collection of SQL projects focused on data analysis, including:
+
+- 📄 **Data Querying**
+- 🔢 **Aggregation**
+- ✏️ **Data Manipulation (INSERT, UPDATE, DELETE)**
+- 🔗 **JOINs**
+- 🎯 **CASE Expressions**
+- 🧩 **Subqueries**
+- 🪜 **CTEs (Common Table Expressions)**
+- 🧹 **Data Filtering & Sorting (GROUP BY, ORDER BY, LIMIT)**
+
+</br>
 
 ## 1) 📊 Data Scientist Career Guide: Skills & Salary Insights 
 
@@ -16,7 +26,15 @@ Through multiple SQL queries, the project uncovers key career insights, includin
 - **Top Valuable Skills for Data Scientists →** Highlight the skills associated with the highest salaries for Data Scientists.
 </br></br>  
 - **Top Optimal Skills for Data Scientists →** Find the combination of both high-demand and high-paying skills for Data Scientists.
-</br></br>  
-- **Top Countries Employing Data Scientists →** Explore which countries have the strongest demand for Data Scientists.  
+<p align="center">
+<img width="500" height="400" alt="Optimal Skills for Data Scientists" src="https://github.com/user-attachments/assets/31cac68d-78f8-43dc-ace7-4af9fd863285" />
+</p>
+</br>
+- **Top Countries Employing Data Scientists →** Explore which countries have the strongest demand for Data Scientists.
+</br>
+<p align="center">
+<img width="500" height="400" alt="Top Countries for Data Scientist" src="https://github.com/user-attachments/assets/83b21c61-92c8-41dc-bd1d-aa05229b8524" />
+</p>
 
+    
 This project helps job seekers prioritize the right skills, focus on high-value roles, and understand global trends for the Data Scientists.
