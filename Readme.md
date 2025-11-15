@@ -2,8 +2,6 @@
 
 A collection of SQL projects focused on data analysis including Data Querying, Aggregation, Data Manipulation, CASE expressions, JOINS, Sub Queries, and CTEs.  
 
----
-
 ## 1) 📊 Data Scientist Career Guide: Skills & Salary Insights 
 
 This SQL project is designed specifically for aspiring data scientists and job seekers looking to understand the data science job market. Using a dataset of **data science job postings from 2023**, the project analyzes the skills, roles, and global opportunities available in the field.  
