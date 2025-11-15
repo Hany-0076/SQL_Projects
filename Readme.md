@@ -1,6 +1,7 @@
 # SQL Projects for Data Analytics
 
-A collection of SQL projects focused on data analysis including Data Querying, Aggregation, Data Manipulation, CASE expressions, JOINS, Sub Queries, and CTEs.  
+A collection of SQL projects focused on data analysis including Data Querying, Aggregation, Data Manipulation, CASE expressions, JIONS, Sub Queries, and CTEs.
+</br></br>
 
 ## 1) 📊 Data Scientist Career Guide: Skills & Salary Insights 
 
