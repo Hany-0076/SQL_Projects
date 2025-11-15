@@ -1,4 +1,4 @@
-/* Query Question: What are the top common skills for Data Scientists ?
+/* Query Question: What are the top Popular skills for Data Scientists ?
 - We create this query to show the top 10 skills common for 
 Data Scientists helping job searchers to focus on the most widespread skills. */
 
@@ -29,5 +29,5 @@ LIMIT 10
 SELECT
     *
 FROM
-    top_data_scientist_skills
+    top_common_data_scientist_skills
 

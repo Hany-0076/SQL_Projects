@@ -29,5 +29,5 @@ LIMIT 10
 SELECT
     *
 FROM
-    top_data_scientist_skills
+    top_valuable_data_scientist_skills
 

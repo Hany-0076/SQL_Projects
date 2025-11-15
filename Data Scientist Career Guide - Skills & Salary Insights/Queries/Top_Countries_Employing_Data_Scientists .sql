@@ -1,3 +1,7 @@
+/* Query Question: What are the top Countries employing Data Scientists ?
+- We create this query to show the top 10 Countries have opportunities for 
+Data Scientists helping job searchers to focus on where they should search. */
+
 SELECT
     job_country AS Country,
     COUNT(*) AS "Data Scientists Per Country"
