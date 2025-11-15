@@ -2,26 +2,32 @@
 - We create this query to show the top 10 skills valuable for 
 Data Scientists helping job searchers to focus on the most important skills. */
 
-WITH top_skills AS(
-    SELECT
-        SD.job_id,
-        S.skill_id,
-        skills,
-        COUNT(*) AS skill_count,
-    FROM
-        skills_dim AS S
-    FULL OUTER JOIN skills_job_dim AS SD
-    ON SD.skill_id = S.skill_id    
-)
-
+WITH top_data_scientist_skills AS ( -- CTE to be able to use this direct in case we wanted to join it with other tables.
 SELECT
-    F.job_id,
-    job_title AS "Job Title",
-    TS.skills AS "Skill",
-    salary_year_avg AS "Salary"
-FROM job_postings_fact AS F
-FULL OUTER JOIN top_skills AS TS
-ON TS.job_id = F.job_id
+    skills,
+    '$ ' || ROUND(SUM(salary_year_avg),0) "Salary based on Skills"
+FROM
+    skills_job_dim
+INNER JOIN
+    job_postings_fact
+ON 
+    skills_job_dim.job_id = job_postings_fact.job_id
+INNER JOIN 
+    skills_dim
+ON
+    skills_dim.skill_id = skills_job_dim.skill_id
 WHERE
     job_title_short = 'Data Scientist'
     AND salary_year_avg IS NOT NULL
+GROUP BY
+    skills
+ORDER BY
+    SUM(salary_year_avg) DESC
+LIMIT 10
+)
+
+SELECT
+    *
+FROM
+    top_data_scientist_skills
+
