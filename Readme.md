@@ -42,10 +42,9 @@ Through multiple SQL queries, the project uncovers key career insights, includin
 
 🟠 **5. Top Countries Employing Data Scientists Query →** Explore which countries have the strongest demand for Data Scientists.
 <p align="center">
-<img width="600" height="500" alt="Top Countries for Data Scientist" src="https://github.com/user-attachments/assets/83b21c61-92c8-41dc-bd1d-aa05229b8524" />
+<img width="600" height="476" alt="Top Countries for Data Scientist" src="https://github.com/user-attachments/assets/5944b5d3-30f3-4e32-9c78-fbf8ce1fed57" />
 </p>
-
-    
+   
 ➡️ **This project helps job seekers for Data Scientists roles:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1️⃣ Focus on High-value roles  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2️⃣ Prioritize the right skills  
