@@ -18,7 +18,7 @@ A collection of SQL projects focused on data analysis, including:
 
 This SQL project is designed specifically for aspiring data scientists and job seekers looking to understand the data science job market. Using a dataset of **data science job postings from 2023**, the project analyzes the skills, roles, and global opportunities available in the field.  
 
-Through multiple SQL queries, the project uncovers key career insights, including:  
+### 🔶 Through multiple SQL Queries, the project uncovers key career insights, including:  </br></br>  
 
 🟠 **1. Top Paying Data Scientists Query →** Identify the highest-paying roles as a Data Scientist.
 <p align="center">
@@ -45,8 +45,8 @@ Through multiple SQL queries, the project uncovers key career insights, includin
 <img width="600" height="476" alt="Top Countries for Data Scientist" src="https://github.com/user-attachments/assets/5944b5d3-30f3-4e32-9c78-fbf8ce1fed57" />
 </p>
    
-➡️ **This project helps job seekers for Data Scientists roles:**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1️⃣ Focus on High-value roles  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2️⃣ Prioritize the right skills  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3️⃣ Understand the global market and the most employing Countries.
+### 🔶 **This project helps job seekers for Data Scientists roles:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟠 1. Focus on High-value roles with the most payings.   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟠 2. Prioritize the right skills to learn and focus on.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟠 3. Understand the global market and the most employing Countries.
 
