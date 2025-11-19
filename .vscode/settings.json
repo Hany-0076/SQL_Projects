@@ -19,6 +19,19 @@
             "name": "sql_course",
             "database": "sql_course",
             "username": "postgres"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Football_Data",
+            "database": "football_stats",
+            "username": "postgres"
         }
+    ],
+    "cSpell.words": [
+        "Salah"
     ]
 }
