@@ -95,7 +95,7 @@ This project combines **SQL querying** with **Excel data visualization** to unco
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♦️ 3. Comparing career longevity, club history, and standout performances across different generations.   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♦️ 4. Showing how modern Egyptian stars like Mohamed Salah reflect the rise of Egyptians abroad, with Salah surpassing global stars to   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;become one of the world’s best players.  
 <p align="center">
-Checkout the project file here--> { https://github.com/Hany-0076/SQL_Projects_for_Data_Analytics/tree/main/Data%20Scientist%20Skills%20%26%20Salary%20Insights }
+Checkout the project file here--> { https://github.com/Hany-0076/SQL_Projects_for_Data_Analytics/tree/main/Egyptian%20Players%20in%20Europe%20Top%205%20Leagues/Egyptian%20Players%20in%20Europe%20Top%205%20Leagues }
 </p>
 
 
