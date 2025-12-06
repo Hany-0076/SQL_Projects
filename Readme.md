@@ -51,7 +51,7 @@ Using **SQL** to extract key information from the dataset and **Excel** to visua
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 2. Prioritize the right skills to learn and focus on.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 3. Understand the global market and the most employing Countries.  
 
-Checkout the project file here--> {https://github.com/user-attachments/files/23211512/Data.Science.Top.Skills.Analysis.xlsx}
+Checkout the project file here--> {Data Scientist Skills & Salary Insights}
 </br></br></br>
 
 ## 2)⚽Egyptian Players in Europe’s Top 5 Leagues Since 1992  
