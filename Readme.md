@@ -50,8 +50,9 @@ Using **SQL** to extract key information from the dataset and **Excel** to visua
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 1. Focus on High-value roles with the most payings.   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 2. Prioritize the right skills to learn and focus on.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔶 3. Understand the global market and the most employing Countries.  
-
-Checkout the project file here--> {Data Scientist Skills & Salary Insights}
+<p align="center">
+Checkout the project file here--> { https://github.com/Hany-0076/SQL_Projects_for_Data_Analytics/tree/main/Data%20Scientist%20Skills%20%26%20Salary%20Insights }
+</p>
 </br></br></br>
 
 ## 2)⚽Egyptian Players in Europe’s Top 5 Leagues Since 1992  
@@ -92,8 +93,10 @@ This project combines **SQL querying** with **Excel data visualization** to unco
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♦️ 1. Recognizing the top-performing Egyptian footballers across Europe’s elite leagues.   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♦️ 2. Understanding which players made the biggest impact through goals, defensive actions, and consistency.   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♦️ 3. Comparing career longevity, club history, and standout performances across different generations.   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♦️ 4. Showing how modern Egyptian stars like Mohamed Salah reflect the rise of Egyptians abroad, with Salah surpassing global stars to   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;become one of the world’s best players.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;♦️ 4. Showing how modern Egyptian stars like Mohamed Salah reflect the rise of Egyptians abroad, with Salah surpassing global stars to   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;become one of the world’s best players.  
+<p align="center">
+Checkout the project file here--> { https://github.com/Hany-0076/SQL_Projects_for_Data_Analytics/tree/main/Data%20Scientist%20Skills%20%26%20Salary%20Insights }
+</p>
 
 
 
