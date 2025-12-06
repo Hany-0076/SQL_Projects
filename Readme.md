@@ -1,6 +1,6 @@
 # SQL Projects for Data Analytics
 
-A collection of SQL projects focused on data analysis, including:
+A collection of SQL projects focused on data analytics, including:
 
 - 📄 **Data Querying**
 - 🔢 **Aggregation**
