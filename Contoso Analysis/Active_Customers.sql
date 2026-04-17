@@ -1,4 +1,3 @@
-CREATE VIEW Active_customers_analysis AS 
 WITH first_purchase AS (
 	SELECT 
 		customerkey,

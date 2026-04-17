@@ -1,4 +1,3 @@
-
 WITH customer_ltv AS (
     SELECT cohort_analysis.customerkey,
         cohort_analysis.full_name,
