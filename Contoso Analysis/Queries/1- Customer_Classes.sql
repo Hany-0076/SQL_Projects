@@ -16,6 +16,21 @@ ltv_percentile AS (
         customer_ltv
         ),
 
+customer_classification AS (
+    SELECT
+        c.customerkey,
+        c.full_name,
+        c.total_ltv,
+        CASE
+            WHEN c.total_ltv < p.low_percentile THEN '1- Low Customer Value'::text
+            WHEN c.total_ltv <= p.high_percentile THEN '2- Medium Customer Value'::text
+            ELSE '3- High Customer Value'::text
+        END AS customer_classification
+    FROM
+        customer_ltv c,
+        ltv_percentile p
+),
+
 customer_classes_revenue AS (
     SELECT 
         customer_classification,
@@ -28,15 +43,4 @@ customer_classes_revenue AS (
 	    customer_classification
         )
 
-SELECT
-    c.customerkey,
-    c.full_name,
-    c.total_ltv,
-    CASE
-        WHEN c.total_ltv < p.low_percentile THEN '1- Low Customer Value'::text
-        WHEN c.total_ltv <= p.high_percentile THEN '2- Medium Customer Value'::text
-        ELSE '3- High Customer Value'::text
-    END AS customer_classification
-FROM
-    customer_ltv c,
-    ltv_percentile p;
+SELECT * from customer_classes_revenue
