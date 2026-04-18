@@ -29,6 +29,16 @@
             "name": "Football_Data",
             "database": "football_stats",
             "username": "postgres"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Contoso",
+            "username": "postgres",
+            "database": "Contoso"
         }
     ],
     "cSpell.words": [
